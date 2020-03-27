@@ -9,7 +9,7 @@ description: >
 
 {{% alert title="Warning" color="warning" %}}
 These pages are under construction. 
-**ToDo: Complete this (Inlude images/diagrams etc) **
+**ToDo: Complete this (Include images/diagrams etc) **
 {{% /alert %}}
 
 
@@ -36,7 +36,7 @@ Each of these Operators are also responsible for creating resources:
 
 
 | Resource                           | Short Name  | 
-|------------------------------------|-------------
+|------------------------------------|-------------|
 | Deployments                        | OLM     |
 | ServiceAccounts                    | OLM     |
 | (Cluster)Roles                     | OLM     |
