@@ -1,0 +1,8 @@
+name: Broken link Checker
+on: [push, pull_request]
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hugo Broken Link Check
+      - uses: marccampbell/hugo-linkcheck-action@v0.1.3
